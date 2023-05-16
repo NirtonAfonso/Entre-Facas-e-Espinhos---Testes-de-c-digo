@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06268e6a02fa8c24ba8b0fa60830da16, type: 3}
+  m_Name: Cubo
+  m_EditorClassIdentifier: 
+  itemName: Cubo
+  itemSprite: {fileID: 21300000, guid: e013942054828a54a9520bad1c6133b1, type: 3}
